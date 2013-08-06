@@ -4,7 +4,7 @@ setup(
     name='django-diggpaginator',
     version='1.0.0',
     description="Support for Digg-style paginator.",
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
     author='Arapov Denis',
     author_email='d.arapov@undev.ru',
     license='BSD',
